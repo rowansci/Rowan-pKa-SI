@@ -2,6 +2,12 @@
 
 This repository contains the supporting information for [Rowan's recent preprint on pKa prediction](https://chemrxiv.org/engage/chemrxiv/article-details/65ea085be9ebbb4db932e838).
 
+## Fitting
+
+The fit dataset was adapted from [Thapa and Raghavachari](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00606), filtering out any SMILES strings that could not be parsed by RDKit. This resulting in 215 molecules and pKa values, which can be found in ``TR215.csv``.
+
+## Evaluation
+
 Eight different datasets used to benchmark Rowan pKa are included in ``assays/``. Here's where the data comes from:
 
 ### SAMPL6 (``assays/SAMPL6.csv``)
