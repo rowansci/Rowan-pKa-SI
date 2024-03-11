@@ -1,6 +1,7 @@
 # Rowan pKa - Supplementary Information
 
-This repository contains the supporting information for [Rowan's recent preprint on pKa prediction](https://chemrxiv.org/engage/chemrxiv/article-details/65ea085be9ebbb4db932e838).
+This repository contains the supporting information for [Rowan's recent preprint on pKa prediction](https://chemrxiv.org/engage/chemrxiv/article-details/65ea085be9ebbb4db932e838). 
+We hope that this collection of test datasets can be useful for future work in pKa prediction.
 
 ## Fitting
 
