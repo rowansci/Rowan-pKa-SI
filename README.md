@@ -5,7 +5,7 @@ We hope that this collection of test datasets can be useful for future work in p
 
 ## Fitting
 
-The fit dataset was adapted from [Thapa and Raghavachari](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00606), filtering out any SMILES strings that could not be parsed by RDKit. This resulting in 215 molecules and pKa values, which can be found in ``TR215.csv``.
+The fit dataset was adapted from [Thapa and Raghavachari](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00606), filtering out any SMILES strings that could not be parsed by RDKit. This resulted in 215 molecules and associated pKa values, which can be found in ``TR215.csv``.
 
 ## Evaluation
 
